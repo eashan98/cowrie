@@ -3,7 +3,7 @@ csirtgsdk==1.1.5
 geoip2
 
 # dshield
-requests==2.32.3
+requests==2.33.0
 
 # elasticsearch
 elasticsearch==8.14.0
@@ -12,10 +12,10 @@ elasticsearch==8.14.0
 hpfeeds==3.1.0
 
 # mysql
-mysql-connector-python==8.3.0
+mysql-connector-python==9.1.0
 
 # mongodb
-pymongo==4.6.3
+pymongo==4.18.3
 
 # rethinkdblog
 rethinkdb==2.4.10.post1
